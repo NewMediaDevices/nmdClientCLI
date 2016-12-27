@@ -3,9 +3,9 @@
 Experimental built of the nmdClient app for CLI purposes. The goals is to achieve a simple x-platform solution.
 
 # Install
-git clone this repo
-cd into nmdClientCLI
-npm install
+$ git clone https://github.com/NewMediaDevices/nmdClientCLI.git
+$ cd nmdClientCLI
+$ npm install
 
 # Running
-node .
+$ node .
